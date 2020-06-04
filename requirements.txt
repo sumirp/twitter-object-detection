@@ -1,0 +1,9 @@
+tensorflow=1.14
+python=3.7
+pillow=7.1.2
+lxml=4.5.0
+jupyter=1.0.0
+matplotlib=3.2.1
+opencv-python=4.2.0.34
+protobuf=3.11.3
+labelimg=1.8.3
