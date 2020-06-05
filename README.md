@@ -6,8 +6,6 @@ The output should be a list of arrays containing the bounding boxes of the follo
 
 [ymin, xmin, ymax, xmax]
 
-## Hint: for validation, keep 1 picture away from the training data and then use it as the validation image.
-
 The folder structure is as follows:
 1. annotations - This folder stores all the .csv and tf.record files which contain a list of annotated images.
 2. images - This folder stores all the train and validation images along with their .xml versions.
